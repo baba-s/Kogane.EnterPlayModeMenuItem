@@ -1,4 +1,4 @@
-# UniEnterPlayModeMenu
+# Kogane Enter Play Mode Menu Item
 
 Unity のメニューから Enter Play Mode の有効・無効を変更できるエディタ拡張
 
