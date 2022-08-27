@@ -1,5 +1,5 @@
 {
-    "name": "UniEnterPlayModeMenu",
+    "name": "Kogane.EnterPlayModeMenuItem",
     "references": [],
     "includePlatforms": [
         "Editor"
