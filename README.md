@@ -1,9 +1,5 @@
 # Kogane Enter Play Mode Menu Item
 
+![2022-08-28_131605](https://user-images.githubusercontent.com/6134875/187057153-3e1dbe72-644b-4ac8-a7d1-f70a90f81a33.png)
+
 Unity のメニューから Enter Play Mode の有効・無効を変更できるエディタ拡張
-
-## 使い方
-
-![2020-06-13_143910](https://user-images.githubusercontent.com/6134875/84560994-cb383180-ad83-11ea-9878-7515bbfae1bd.png)
-
-Unity メニューの「Edit > UniEnterPlayModeMenu」から Enter Play Mode の有効・無効を変更できます  
